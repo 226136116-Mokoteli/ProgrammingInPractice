@@ -1,3 +1,5 @@
+//Tainá Mokoteli-226136116-COMPUTER SCIENCE-GROUP30
+
 #include <stdio.h>
 #include <string.h>
 int main(void){
